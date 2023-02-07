@@ -1,9 +1,9 @@
 <h1>CRUD Reservas de Mascotas en Laravel 9<h1>
 
-AUTOR: DAVID SARRIA
-EMAIL: davidjuanmontano7@gmail.com
-EMAIL WORK: sarrifreelancer@gmail.com
-Fecha: 06/02/2023
+<h2>AUTOR: DAVID SARRIA</h2>
+<h2>EMAIL: davidjuanmontano7@gmail.com</h2>
+<h2>EMAIL WORK: sarrifreelancer@gmail.com</h2>
+<h2>Fecha: 06/02/2023 </h2>
 
 <h3>Instalación:</h3>
 <ol><li>Crear una base de datos mysql</li>
@@ -14,7 +14,6 @@ Fecha: 06/02/2023
     <li>Generar la API key ejecutando: php artisan key:generate</li>
     <li>En el archivo .env colocar el nombre de la base de datos</li>
     <li>Para ejecutar las migraciones: php artisan migrate</li>
-    
 </ol>
 
 <p>Extra<p>
