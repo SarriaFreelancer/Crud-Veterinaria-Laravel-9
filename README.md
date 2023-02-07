@@ -1,5 +1,4 @@
 <h1>CRUD Reservas de Mascotas en Laravel 9<h1>
-
 <h2>AUTOR: DAVID SARRIA</h2>
 <h2>EMAIL: davidjuanmontano7@gmail.com</h2>
 <h2>EMAIL WORK: sarrifreelancer@gmail.com</h2>
@@ -21,7 +20,7 @@
     <li>install npm</li>
     <li>install build</li>
     <li>Para compilar js/sass/css/bootstrap npm run dev</li>
-    <li>php artisan seve</li>
+    <li>php artisan serve</li>
 </ul>
 
 #Debes Loguearte al iniciar la aplicacion en tu servidor
