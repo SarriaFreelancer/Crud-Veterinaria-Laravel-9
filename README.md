@@ -5,8 +5,9 @@
 <h2>Fecha: 06/02/2023 </h2>
 
 <h3>Instalación:</h3>
-<ul><li>Crear una base de datos mysql</li>
+<ul>
     <li>Clonar o descargar el proyecto en el directorio de tu servidor web</li>
+    <li>Crear una base de datos mysql</li>
     <li>Acceder mediante terminal a la carpeta del proyecto</li>
     <li>Ejecutar: Composer install</li>
     <li>Crear el archivo .env con los comandos: cp .env.example .env</li>
