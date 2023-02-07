@@ -27,7 +27,7 @@
 #Debes Loguearte al iniciar la aplicacion en tu servidor
 
 <h2>Tabla Clientes</h2>
-<ul>><li>nombre</li><li>documentoid</li>
+<ul><li>nombre</li><li>documentoid</li>
 <li>telefono</li><li>email</li></ul>
 
 <h2>Tabla Mascotas</h2>
